@@ -1,4 +1,3 @@
-Acme Systems
 Acme systems is a world leader in providing software for hotel industry. Our customer Byford has requested us to create a system which allow the following:
 1) Cleaning-staff: a person who has our app installed on their mobile phone, cleaning staff visits locations/room assigned to him and clean the room.
 2) Supervisor: A person who verifies the work of cleaning staff.
